@@ -1,7 +1,3 @@
-Here’s a `README.md` and description for your repository:
-
----
-
 # Dapper Dasher Game
 
 This repository contains the source code for **Dapper Dasher**, a simple 2D side-scrolling game built using the Raylib library. The player controls a character named Scarfy, who must navigate through a series of obstacles (nebulas) while running across a scrolling background. The objective is to avoid collisions with nebulas and reach the finish line to win the game.
