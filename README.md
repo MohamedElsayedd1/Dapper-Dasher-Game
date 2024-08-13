@@ -24,7 +24,7 @@ a simple 2D side-scrolling game built using the Raylib library. The player contr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dapper-dasher.git
+   git clone https://github.com/MohamedElsayedd1/dapper-dasher.git
    cd dapper-dasher
    ```
 
